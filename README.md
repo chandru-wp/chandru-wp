@@ -1,42 +1,93 @@
-<h1 align="center">Hi 👋, I'm Chandru </h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
+<h1 align="center">Hey there! I'm Raj 👋🚀</h1>
+
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Active Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+<p align="center">
+  Dive into my world of code, where creativity meets consistency.
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Working as Full Stack Developer
-- 🌱 Learning AI & Machine Learning
-- 💬 Ask me about React, Node.js, MongoDB
-- 📫 How to reach me: chandrukannan676@gmail.com
+# 👨‍💻 Who Am I?
+
+🚀 Full Stack & AI/ML Developer passionate about building scalable web applications  
+🧠 Strong in problem solving and system design  
+🤝 Love collaboration and innovation  
+📈 Always learning new technologies  
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Wanna Know My Professional Skills? Let's Dive In
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### ⚙ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+## 🎨 Frontend Magic
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js,tailwind,bootstrap" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚙ Backend Brilliance
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase" />
+</p>
+
+---
+
+## 🧠 Database Mastery
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+</p>
+
+---
+
+## ☁ Cloud & AI
+<p align="center">
+<img src="https://skillicons.dev/icons?i=gcp,azure,tensorflow" />
+</p>
+
+---
+
+## 🚀 Deployment World
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,netlify,railway,render" />
+</p>
+
+---
+
+## 🧰 Tactical Toolkit
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+</p>
+
+---
+
+# 💼 How Do I Contribute?
+
+## 🏢 Company Experience
+
+### 🔹 Jr Full Stack Developer (Aug 2025 – Present)
+- Built 6+ scalable full-stack projects
+- Developed React + Node.js applications
+- Integrated REST APIs & optimized database queries
+
+### 🔹 Full Stack Developer Intern (Jul 2025 – Aug 2025)
+- Worked on frontend & backend modules
+- Collaborated with cross-functional teams
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -45,6 +96,32 @@
 
 ---
 
-## 🤝 Connect With Me
+# 🏆 Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+- 🥇 Built AI-powered web applications
+- 🚀 Delivered production-ready scalable systems
+- 📚 Continuous learner in AI & Generative AI
+
+---
+
+# 🤝 Collaboration
+
+💡 Open to collaboration in:
+- AI / Machine Learning
+- Full Stack Web Development
+- Startup Projects
+- Open Source
+
+---
+
+# 📬 How to Reach Me
+
+📧 yourmail@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/yourprofile  
+🌐 Portfolio: https://yourportfolio.com  
+
+---
+
+<p align="center">
+  Let's build something amazing together ✨
+</p>
