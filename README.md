@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj</h1>
+<h1 align="center">Hi 👋, I'm Chandru </h1>
 <h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 - 🔭 Working as Full Stack Developer
 - 🌱 Learning AI & Machine Learning
 - 💬 Ask me about React, Node.js, MongoDB
-- 📫 How to reach me: yourmail@gmail.com
+- 📫 How to reach me: chandrukannan676@gmail.com
 
 ---
 
